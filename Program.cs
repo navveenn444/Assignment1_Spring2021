@@ -28,7 +28,7 @@ namespace Assignment1_Spring2021
             bool flag = squareSums(n3);
             if (flag)
             {
-                Console.WriteLine("Yes, the number can be expressed as a sum of           squares of 2 integers");
+                Console.WriteLine("Yes, the number can be expressed as a sum of squares of 2 integers");
             }
             else
             {
@@ -60,7 +60,6 @@ namespace Assignment1_Spring2021
 
         }
 
-        
         private static void printTriangle(int n)
         {
             try
